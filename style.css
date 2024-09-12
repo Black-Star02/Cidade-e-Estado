@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+select{
+    margin-top: 60px;
+    font-size: 25px;
+    border: 2px solid black;
+}
+
+select:hover{
+    background-color: rgba(106, 106, 255, 0.315);
+    border: 2px solid black;
+}
